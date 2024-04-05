@@ -1,6 +1,6 @@
-![Header](https://cdn.discordapp.com/attachments/461924356881121291/1198719726411595836/image_4.png)
 
-<h1 align="center">HmodyXD</h1>
+
+<h1 align="center">HmodyXD a random lazy developer</h1>
 <div align="center">
   <p>
     <!-- credits: vast -->
@@ -14,6 +14,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=HmoodyXD&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
-</p>
-
-![Footer](https://cdn.discordapp.com/attachments/461924356881121291/1198719730773659858/image_5.png)
+<p
